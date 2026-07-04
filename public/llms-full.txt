@@ -2,13 +2,13 @@
 
 A visually stunning marketing website for a back pain relief product, featuring AI-generated models showcasing the product in use. The brand aims to combine aesthetic appeal with health-focused messaging, using modern AI imagery to create a professional and trustworthy look that resonates with people suffering from back pain.
 
-Source: https://back-pain-cleaner-616f8307.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שחררו את הגב, שנו את חייכם — Back pain cleaner
 
-URL: https://back-pain-cleaner-616f8307.zappy5.app
+URL: https://example.com
 Description: גלו את הפתרון המהפכני לשיכוך כאבי גב המשלב עיצוב ויזואלי עוצר נשימה עם יעילות מוכחת. דגמי AI מציגים את המוצר בפעולה אמיתית. התחילו לחיות ללא כאב עוד היום!
 
 שחררו את הגב, שנו את חייכם — Back pain cleaner
@@ -641,7 +641,7 @@ Back pain cleaner עוזר לתמוך בנוחות היומיומית של אנ�
 
 ## מדיניות פרטיות
 
-URL: https://back-pain-cleaner-616f8307.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -891,7 +891,7 @@ Back pain cleaner ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 ## הצהרת נגישות
 
-URL: https://back-pain-cleaner-616f8307.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1150,7 +1150,7 @@ Back pain cleaner מחויבת להנגיש את השירותים לכלל הצ�
 
 ## תנאי שימוש
 
-URL: https://back-pain-cleaner-616f8307.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1428,7 +1428,7 @@ Back pain cleaner מספקת Health & Wellness דרך האתר. השירותים
 
 ## תודה שפניתם אלינו
 
-URL: https://back-pain-cleaner-616f8307.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Back pain cleaner - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
