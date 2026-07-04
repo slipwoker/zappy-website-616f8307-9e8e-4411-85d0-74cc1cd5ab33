@@ -1,0 +1,70 @@
+# Back pain cleaner — Generative Engine Optimization Map
+
+> A visually stunning marketing website for a back pain relief product, featuring AI-generated models showcasing the product in use. The brand aims to combine aesthetic appeal with health-focused messaging, using modern AI imagery to create a professional and trustworthy look that resonates with people suffering from back pain.
+
+---
+
+## Pages
+
+### בית
+https://back-pain-cleaner-616f8307.zappy5.app
+גלו את הפתרון המהפכני לשיכוך כאבי גב המשלב עיצוב ויזואלי עוצר נשימה עם יעילות מוכחת. דגמי AI מציגים את המוצר בפעולה אמיתית. התחילו לחיות ללא כאב עוד היום!
+
+### תודה שפניתם אלינו
+https://back-pain-cleaner-616f8307.zappy5.app/thank-you
+Back pain cleaner - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://back-pain-cleaner-616f8307.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://back-pain-cleaner-616f8307.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://back-pain-cleaner-616f8307.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://back-pain-cleaner-616f8307.zappy5.app
+- Endpoint: https://back-pain-cleaner-616f8307.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Back pain cleaner
+A visually stunning marketing website for a back pain relief product, featuring AI-generated models showcasing the product in use. The brand aims to combine aesthetic appeal with health-focused messaging, using modern AI imagery to create a professional and trustworthy look that resonates with people suffering from back pain.
+
+## Target Audience
+- אנשים הסובלים מכאבי גב
+- עובדי משרד
+- גמלאים
+
+## Industry
+Health & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://back-pain-cleaner-616f8307.zappy5.app/sitemap.xml
+- Robots: https://back-pain-cleaner-616f8307.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://back-pain-cleaner-616f8307.zappy5.app/llms-full.txt
